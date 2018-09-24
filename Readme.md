@@ -1,0 +1,1 @@
+This is a node app to show picture uploaded

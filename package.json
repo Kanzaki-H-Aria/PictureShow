@@ -1,0 +1,17 @@
+{
+  "name": "showpicture",
+  "version": "1.0.0",
+  "description": "This is a node app to show picture uploaded",
+  "main": "index.js",
+  "dependencies": {
+    "_formidable@1.2.1@formidable": "^1.2.1",
+    "formidable": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
